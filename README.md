@@ -90,3 +90,7 @@ docker ps -a
 ```
 docker rmi < image-id >
 ```
+
+### Cheatsheet
+
+![194713450-b655d211-d329-4f7e-8df2-c64eb706c5d7](https://github.com/rizwan141/Docker-Container/assets/103893307/fe494ff7-019f-4655-ace4-d40cea6662e0)
